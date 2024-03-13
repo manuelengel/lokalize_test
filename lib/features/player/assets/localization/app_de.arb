@@ -1,7 +1,7 @@
 {
-  "@@locale": "en",
+  "@@locale": "de",
   "playerAppBarTitle": "Player",
   "@playerAppBarTitle": {
-    "description": "Text shown in the AppBar of the Player Page"
+    "description": "Text, der in der AppBar der Player-Seite angezeigt wird"
   }
 }
