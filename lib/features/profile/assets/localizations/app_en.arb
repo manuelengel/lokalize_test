@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "profileLangButton": "Language",
+  "languagePageTitle": "Language",
+  "automaticLanguage": "Automatic",
+  "germanLanguageDescription": "Deutsch (German)",
+  "germanLanguage": "German",
+  "englishLanguageDescription": "English",
+  "englishLanguage": "English"
+}
