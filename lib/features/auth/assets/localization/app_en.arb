@@ -1,0 +1,59 @@
+{
+  "@@locale": "en",
+  "haveAccount": "Already have an account?",
+  "dontHaveAccount": "Don't have an account yet?",
+  "signUp": "Sign up",
+  "signUpWith": "Sign up with {value}",
+  "@signUpWith": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "login": "Login",
+  "loginHere": "Log in here",
+  "loginWith": "Login with {value}",
+  "@loginWith": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "authFailed": "Authentication failed",
+  "nextLoginWithSevenMind": "Next time you login, you can use your 7Mind credentials",
+  "apple": "Apple",
+  "google": "Google",
+  "facebook": "Facebook",
+  "createAccount": "Create an Account",
+  "create7mindAccount": "Sign up with 7Mind",
+  "create7mindAccountDescription": "Use your existing 7Mind account to log into 7Sleep",
+  "createAccountButton": "Create an Account",
+  "createAccountDescription": "Start improving your sleep tonight",
+  "accountCreated": "Account Created",
+  "nameLabel": "Your first name",
+  "nameHint": "John",
+  "sevenMindEmailLabel": "7Mind Email Address",
+  "email": "Email",
+  "emailLabel": "Email Address",
+  "emailHint": "john@email.com",
+  "emailHint2": "Enter your email",
+  "sevenMindPasswordLabel": "7Mind Password",
+  "passwordLabel": "Password",
+  "passwordHint": "At least 8 characters and 1 number",
+  "passwordHint2": "Enter your password",
+  "recoverPasswordTitle": "Recover password",
+  "recoveryEmail": "Send recovery email",
+  "youGotMail": "You got mail",
+  "recoverPasswordEmailSent": "We sent you an email to reset your password",
+  "waitAMoment": "Wait a moment",
+  "preparingMessage": "We are prepare everything",
+  "backToLogin": "Back to the login",
+  "passwordRecovery": "Forgot password",
+  "badCredentials": "Invalid Email and/or Password",
+  "missingName": "Name Required",
+  "invalidEmail": "Invalid email address",
+  "missingEmail": "Insert an email",
+  "signInInstead": "You have a registered account with 7Mind with this email. Please sign up with 7Mind or login below",
+  "takenEmail": "Email Taken",
+  "missingPassword": "Insert a password",
+  "invalidPassword": "At least 8 characters and 1 number",
+  "have7minAccount": "Already have a 7Sleep or 7Mind account?"
+}
